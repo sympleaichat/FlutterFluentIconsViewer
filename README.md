@@ -25,7 +25,10 @@ Live Demo: [https://your-username.github.io/fluenticonsapp/](https://sympleaicha
 
 
 🚀 **Motivation**
-While Microsoft's Fluent UI icons are a fantastic alternative to Material Icons, there wasn't a dedicated, user-friendly web viewer available to quickly search and reference them for Flutter development. This project aims to fill that gap by providing a one-stop solution for developers to visually discover and utilize the entire fluentui_system_icons library.
+
+While Microsoft's Fluent UI icons are a fantastic alternative to Material Icons, there wasn't a dedicated, user-friendly web viewer available to quickly search and reference them for Flutter development. 
+
+This project aims to fill that gap by providing a one-stop solution for developers to visually discover and utilize the entire fluentui_system_icons library.
 
 
 💻 **Tech Stack**
