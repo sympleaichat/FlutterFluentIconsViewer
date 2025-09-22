@@ -42,5 +42,4 @@ The output will be located in the build/web directory. You can then deploy this 
 
 📄 **License**
 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+This project is licensed under the MIT License.
