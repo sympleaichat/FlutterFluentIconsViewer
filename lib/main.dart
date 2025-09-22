@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'dart:async';
 import 'all_fluent_icons.dart'; // アイコンリストをインポート
 
 void main() {
@@ -81,6 +82,7 @@ class _IconViewerPageState extends State<IconViewerPage> {
       appBar: AppBar(
         title: const Text('Fluent System Icons Viewer'),
         centerTitle: true,
+
         // 検索バー
         bottom: PreferredSize(
           preferredSize: const Size.fromHeight(60.0),
