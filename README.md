@@ -2,7 +2,7 @@
 
 A simple, fast, and searchable web application to explore all icons from Flutter's fluentui_system_icons package. This tool was created to provide an easy-to-use visual reference, which was previously unavailable.
 
-Live Demo: [https://your-username.github.io/fluenticonsapp/](https://sympleaichat.github.io/FlutterFluentIconsViewer/)
+Live Demo: [[https://your-username.github.io/fluenticonsapp/](https://sympleaichat.github.io/FlutterFluentIconsViewer/)](https://sympleaichat.github.io/FlutterFluentIconsViewer/)
 
 (Note: Replace the URL above with your actual deployment URL after hosting it on GitHub Pages or another service.)
 
