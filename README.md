@@ -7,6 +7,8 @@ Live Demo: [https://sympleaichat.github.io/FlutterFluentIconsViewer/](https://sy
 (Note: Replace the URL above with your actual deployment URL after hosting it on GitHub Pages or another service.)
 
 
+![screenshot1](capture.png)  
+
 
 ✨ **Features**
 
